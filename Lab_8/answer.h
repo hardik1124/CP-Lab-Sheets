@@ -1,0 +1,1 @@
+int myans(int ans);
